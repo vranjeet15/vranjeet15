@@ -1,4 +1,4 @@
-# Hi, I'm Ranjeet Verma 👋
+# Hi, I'm Ranjeet Verma 
 
 ### Data Science & Artificial Intelligence | Data Analytics | Machine Learning | Deep Learning
 
